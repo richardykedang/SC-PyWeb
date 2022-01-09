@@ -61,6 +61,7 @@ def DrawMove(game):
 game = start[:]
 free = MakeListOfFreeFields(game)
 
+
 print("WELCOME TO TIC-TAC-TOE!\n")
 DisplayBoard(game)
 
