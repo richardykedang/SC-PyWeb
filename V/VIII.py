@@ -37,3 +37,4 @@ my_pets = Pets(my_cats)
 
 #4 output all of the cats singing using my_pets instance
 my_pets.walk()
+
